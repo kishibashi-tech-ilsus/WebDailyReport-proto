@@ -1,0 +1,2 @@
+# WebDailyReport-proto
+WebDailyReport-proto
